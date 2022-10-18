@@ -11,7 +11,7 @@ Given this complexity and lack of intuitiveness, prompt input as UI for text-to-
 
 ## Next steps
 
-This project is currently in the exploratory phase. We welcome any and all feedback from the community and would love to discuss potential proposals with anyone interested in the project.
+This project is currently in the exploratory phase. We welcome any and all feedback from the community and would love to discuss potential proposals with anyone interested in the project. Check out the [discussions](https://github.com/scf4/PreTTI/discussions) tab to get started.
 
 # Proposals
 
